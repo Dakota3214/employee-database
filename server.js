@@ -6,7 +6,7 @@ const app = express();
 
 // Links this file to other files
 const display = require("./lib/displayDb");
-const add = require("./lib/employeeAdd");
+const add = require("./lib/Add");
 const update = require("./lib/employeeUpdate");
 const db = require("./db/mysqlConfigure");
 
