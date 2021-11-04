@@ -8,7 +8,7 @@
 
 ## Installation
 * Here is a walkthrough demonstration of how to download and get your files up and running to use the employee database!!
-* Insert Video here!!!
+* https://watch.screencastify.com/v/9jEl3OCA21xQZaeZ8MFU
 
 ## Technologies Used
 * Javascript
